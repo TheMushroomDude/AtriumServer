@@ -1,5 +1,6 @@
 # Atrium Server
 ## THIS IS OLD UNUSED CODE - IT IS NOT USED BY ATRIUM (anymore) IN ANY WAY SHAPE OR FORM
+### I have been forced to update this to reflect the current state of I project I don't reside with anymore. 
 
 Atrium a defunct social vr game for playing games with friends, which has been cancelled due to leaks, etc.
 <br>
