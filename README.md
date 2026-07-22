@@ -1,4 +1,6 @@
 # Atrium Server
+## THIS IS OLD UNUSED CODE - IT IS NOT USED BY ATRIUM (anymore) IN ANY WAY SHAPE OR FORM
+
 Atrium a defunct social vr game for playing games with friends, which has been cancelled due to leaks, etc.
 <br>
 This is the official server for Atrium which you may use for whatever you want, may that be education, messing around, etc.
